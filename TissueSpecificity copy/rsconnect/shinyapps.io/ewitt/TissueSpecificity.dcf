@@ -1,0 +1,12 @@
+name: TissueSpecificity
+title: TissueSpecificity
+username:
+account: ewitt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3374470
+bundleId: 3966051
+url: https://ewitt.shinyapps.io/TissueSpecificity/
+when: 1607525075.08152
+asMultiple: FALSE
+asStatic: FALSE
